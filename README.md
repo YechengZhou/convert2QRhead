@@ -8,13 +8,13 @@ DEMOs
 
 use following picture as raw pic: jordan.jpg (193*193)
 
-![image](https://github.com/YechengZhou/convert2QRhead/blob/master/src/jordan.jpg)
+![image](https://raw.githubusercontent.com/YechengZhou/convert2QRhead/master/src/jordan.jpg)
 
 `convert2QRhead.py jordan.jpg --target target.jpg`:
 
 target.jpg
 
-![image](https://github.com/YechengZhou/convert2QRhead/blob/master/src/target.jpg)
+![image](https://raw.githubusercontent.com/YechengZhou/convert2QRhead/master/src/target.jpg)
 
 
 Installation

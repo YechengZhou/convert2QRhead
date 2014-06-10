@@ -8,7 +8,7 @@ DEMOs
 
 The following picture: jordan.jpg (193*193)
 
-![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+![image](https://github.com/YechengZhou/convert2QRhead/blob/master/src/jordan.jpg)
 
 `convert2QRhead.py jordan.jpg --target target.jpg` : [demo]()
 

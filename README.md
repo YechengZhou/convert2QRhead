@@ -10,7 +10,7 @@ use following picture as raw pic: jordan.jpg (193*193)
 
 ![image](https://raw.githubusercontent.com/YechengZhou/convert2QRhead/master/src/jordan.jpg)
 
-`convert2QRhead.py jordan.jpg --target target.jpg`:
+`convert2QRhead.py jordan.jpg --target target.jpg`
 
 target.jpg
 

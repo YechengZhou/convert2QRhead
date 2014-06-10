@@ -8,9 +8,9 @@ DEMOs
 
 The following picture: jordan.jpg (193*193)
 
-![](https://github.com/YechengZhou/convert2QRhead/blob/master/src/jordan.jpg)
+![image](https://github.com/YechengZhou/convert2QRhead/blob/master/src/jordan.jpg)
 
-1. `convert2QRhead.py jordan.jpg --target target.jpg` : [demo]()
+`convert2QRhead.py jordan.jpg --target target.jpg` : [demo]()
 
 
 Installation
@@ -23,7 +23,7 @@ Installation
 Usage
 -----
 
-    Usage: convert2QRhead.py <imgfile> [--target=<target>]
+    convert2QRhead.py <imgfile> [--target=<target>]
 
 
 

@@ -12,7 +12,9 @@ jordan.jpg (193*193)
 
 ![image](https://raw.githubusercontent.com/YechengZhou/convert2QRhead/master/src/jordan.jpg)
 
-`convert2QRhead.py jordan.jpg --target target.jpg`
+```
+convert2QRhead.py jordan.jpg --target target.jpg
+```
 
 after convertion:
 
@@ -31,9 +33,9 @@ Installation
 Usage
 -----
 
-    convert2QRhead.py <imgfile> [--target=<target>]
-
-
+```
+  convert2QRhead.py <imgfile> [--target=<target>]
+```
 
 Warning
 -------
